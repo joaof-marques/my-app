@@ -1,3 +1,5 @@
+import { client } from "@/lib/monbodb"
+
 const Componente = () => {
     return <div className="bg-white text-black p-4 text-lg">
         Primeiro teste
